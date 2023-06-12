@@ -10,7 +10,7 @@
 
 
 
-<h2>To initiate the Azure Honeynet project, the first step is to set up the virtual machines (VMs) that will be utilized. VMs serve as cloud-based computers and will establish the core infrastructure of our honeynet. The following steps outline the process in Microsoft Azure:</h2>
+<h2>To initiate the Azure Honeynet project, the first step is to set up the virtual machines (VMs) that will be utilized. VMs serve as cloud-based computers and will establish the core infrastructure of our honeynet. </h2>
 
 
 

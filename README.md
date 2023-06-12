@@ -47,9 +47,10 @@
 "</p>
 <br />
 
-<p>
+<p> 
 <img src="https://i.imgur.com/F7Cbt7P.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
 <p> <b>
 "Configuration of Inbound Security Rule for NSG:
 To configure the inbound security rule for your Network Security Group (NSG), follow these steps:
